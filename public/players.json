@@ -1,0 +1,110 @@
+[
+  {
+    "player_img": "https://i.ibb.co.com/HpMnTD39/Shakib-Al-Hasan.jpg",
+    "name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "role_play": "All-rounder",
+    "rating": 9.6,
+    "batting_style": "Left-hand",
+    "price": "৳ 30,00,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/ccK3KrjL/tamim.jpg",
+    "name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "role_play": "Batsman",
+    "rating": 8.9,
+    "batting_style": "Left-hand",
+    "price": "৳ 30,00,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/B2hpGt6L/mashrafee.png",
+    "name": "Mashrafe Mortaza",
+    "player_country": "Bangladesh",
+    "role_play": "Bowler",
+    "rating": 8.2,
+    "batting_style": "Right-hand",
+    "price": "৳ 35,00,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/m5sbWStD/mostaiz.png",
+    "name": "Mustafizur Rahman",
+    "player_country": "Bangladesh",
+    "role_play": "Bowler",
+    "rating": 9.1,
+    "batting_style": "Left-hand",
+    "price": "৳ 30,00,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/5WRLm6pw/mahmudullah.jpg",
+    "name": "Mahmudullah Riyad",
+    "player_country": "Bangladesh",
+    "role_play": "All-rounder",
+    "rating": 8.5,
+    "batting_style": "Right-hand",
+    "price": "৳ 30,00,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/7d3hZf45/soumya.png",
+    "name": "Soumya Sarkar",
+    "player_country": "Bangladesh",
+    "role_play": "All-rounder",
+    "rating": 7.9,
+    "batting_style": "Left-hand",
+    "price": "৳ 30,00,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/NfNNZJf/das.webp",
+    "name": "Liton Das",
+    "player_country": "Bangladesh",
+    "role_play": "Wicket-keeper Batsman",
+    "rating": 8.7,
+    "batting_style": "Right-hand",
+    "price": "৳ 30,00,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/DHcDbbpV/imrul.png",
+    "name": "Imrul Kayes",
+    "player_country": "Bangladesh",
+    "role_play": "Batsman",
+    "rating": 7.4,
+    "batting_style": "Left-hand",
+    "price": "৳ 25,00,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/hJ80MWyW/mehedi-miraj.png",
+    "name": "Mehidy Hasan Miraz",
+    "player_country": "Bangladesh",
+    "role_play": "All-rounder",
+    "rating": 8.3,
+    "batting_style": "Right-hand",
+    "price": "৳ 25,00,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/84nCkQ5M/taskin-ahmed.webp",
+    "name": "Taskin Ahmed",
+    "player_country": "Bangladesh",
+    "role_play": "Bowler",
+    "rating": 8.8,
+    "batting_style": "Right-hand",
+    "price": "৳ 25,00,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/BKdFPrQ2/anamul-haque.webp",
+    "name": "Anamul Haque",
+    "player_country": "Bangladesh",
+    "role_play": "Wicket-keeper Batsman",
+    "rating": 7.8,
+    "batting_style": "Right-hand",
+    "price": "৳ 25,00,000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/RGqy8wBJ/afif-ahmed.png",
+    "name": "Afif Hossain",
+    "player_country": "Bangladesh",
+    "role_play": "All-rounder",
+    "rating": 8.0,
+    "batting_style": "Left-hand",
+    "price": "৳ 20,00,000"
+  }
+]
